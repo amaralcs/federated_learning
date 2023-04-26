@@ -1,0 +1,6 @@
+scikit-learn
+pandas
+numpy
+ipykernel
+black
+# flwr[simulation] -- installed separately with pip install flwr[simulation]
